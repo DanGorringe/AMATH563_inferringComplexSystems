@@ -13,3 +13,5 @@ Find included a `Homework` folder, including each homework as I go.
 
 ### Completed Homeworks
  - Homework 1 - Regression, Model Selection and DMD
+ - Homework 2 - Dynamics and Model Discovery
+![Alt Text]{./Homework/2HW/prediction.gif}
