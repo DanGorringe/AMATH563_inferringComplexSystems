@@ -18,4 +18,4 @@ Find included a `Homework` folder, including each homework as I go.
      ![alt text](./Homework/2HW/prediction.gif)
 
  - Homework 3 - Eigenfaces
- - Homework 4 - Neural Networks for Dynmical Systems
+ - Homework 4 - Neural Networks for Dynamical Systems
